@@ -3,7 +3,7 @@
 ## Purpose
 This is a simplified version of the full Deep Background prompting system for business leaders who need to quickly verify claims, check sources, and identify hidden caveats in proposals, reports, or strategic recommendations.
 
-For the complete system with all features, see [deep_background.md](./deep_background.md)
+For the complete system with all features, see [deep_background.md](../research/deep_background.md)
 
 ## How to Use
 
